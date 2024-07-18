@@ -1,0 +1,68 @@
+.My_div {
+     border: solid 50px pink;
+     flex-direction: column;
+     margin: 10px;
+     padding: 10px;
+}
+
+.Subject {
+    color: blueviolet;
+    border: ridge 10px red;
+    margin: 10px;
+    padding: 1opx;
+}
+
+#BST {
+    color:seashell;
+    border: ridge 10px red;
+    margin: 10px;
+    padding: 1opx;
+}
+
+#English{
+    color: aqua;
+    border: ridge 10px red;
+    margin: 10px;
+    padding: 1opx;
+}
+
+#Mathematics {
+    color:blue;
+    border: ridge 10px red;
+    margin: 10px;
+    padding: 1opx;
+}
+
+#French {
+    color: brown;
+    border: ridge 10px red;
+    margin: 10px;
+    padding: 1opx;
+}
+
+#RNV{
+    color: aquamarine;
+    border: ridge 10px red;
+    margin: 10px;
+    padding: 10px;
+}
+
+#History{
+    color: azure;
+    border: ridge 10px red;
+    margin: 10px;
+    padding: 1opx;
+}
+
+#Homeconomics{
+    border: ridge 10px red;
+    margin: 10px;
+    padding: 1opx;
+    color: bisque;
+}
+#PVS {
+    color: greenyellow;
+    border: ridge 10px red;
+    margin: 10px;
+    padding: 1opx;
+}
